@@ -1,0 +1,8 @@
+body {
+    background: url(light-background-901.jpg);
+}
+.container {
+    width: 256px;
+    height: 256px;
+    border: 5px dashed black;
+}
