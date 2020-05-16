@@ -2,7 +2,14 @@ body {
     background: url(light-background-901.jpg);
 }
 .container {
+    width: 173px;
+    height: 291px;
+    border: 5px dashed black;
+    display: inline-block;
+}
+.container2 {
     width: 256px;
     height: 256px;
     border: 5px dashed black;
+    display: inline-block;
 }
